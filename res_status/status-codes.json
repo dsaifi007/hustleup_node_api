@@ -1,0 +1,155 @@
+{
+  "working":{
+    "status":1,
+    "message":"Hustle_Up NodeJs Server Working Properly"
+  },
+  "db_error_0001":{
+    "status":0,
+    "message":"Database/SQL Error"
+  },
+  "json_data_missing":{
+    "status":0,
+    "message":"JSON Data not found"
+  },
+  "query_data_missing":{
+    "status":0,
+    "message":"Query JSON Data not found"
+  },
+  "query_string_missing":{
+    "status":0,
+    "message":"Query String Data not found"
+  },
+  "get_params_missing":{
+    "status":0,
+    "message":"Some Get Parameters are missing"
+  },
+  "no_data_found":{
+    "status":0,
+    "message":"No data found"
+  },
+  "email_missing":{
+    "status":0,
+    "message":"EmailId not found"
+  },
+  "invalid_email":{
+    "status":0,
+    "message":"Email is Invalid"
+  },
+  "password_missing":{
+    "status":0,
+    "message":"Password not found"
+  },
+  "account_created":{
+    "status":1,
+    "message":"Account Created Successfully"
+  },
+  "no_user_found":{
+    "status":0,
+    "message":"User is not registered with us"
+  },
+  "user_already_exist":{
+    "status":0,
+    "message":"User already exist with this email"
+  },
+  "username_missing":{
+    "status":0,
+    "message":"Username/Email not found"
+  },
+  "incorrect_credentials":{
+    "status":0,
+    "message":"Incorrect Login Credentials"
+  },
+  "password_updated":{
+    "status":1,
+    "message":"Password Updated Successfully"
+  },
+  "incorrect_password":{
+    "status":0,
+    "message":"Old Password is Incorrect"
+  },
+  "team_created":{
+    "status":1,
+    "message":"Team Created Successfully"
+  },
+  "duplicate_team_name":{
+    "status":0,
+    "message":"Team name is already in use."
+  },
+  "team_already_exist":{
+    "status":0,
+    "message":"Team already exist with this email."
+  },
+  "team_name_missing":{
+    "status":0,
+    "message":"Team name not found"
+  },
+  "team_name_already_exist":{
+    "status":0,
+    "message":"Team name already in use Please choose diffrent Team name"
+  },
+  "season_added":{
+    "status":1,
+    "message":"Season Added Successfully"
+  },
+  "season_missing":{
+    "status":0,
+    "message":"Season Not Found"
+  },
+  "all_fields_required":{
+    "status":0,
+    "message":"Some fields are missing."
+  },
+  "season_asigned":{
+    "status":1,
+    "message":"Season successfully assigned to your team"
+  },
+  "season_already_asigned":{
+    "status":0,
+    "message":"Team already have a asigned season."
+  },
+  "invalid_token":{
+    "status":0,
+    "message":"Invalid User Token"
+  },
+  "token_not_found":{
+    "status":0,
+    "message":"Token not found for logged in user"
+  },
+  "subscription_not_found":{
+    "status":0,
+    "message":"Subscription Pack Missing"
+  },
+  "pack_subscribed":{
+    "status":1,
+    "message":"Your Subscription is Successful"
+  },
+  "parameters_not_found":{
+
+    "status":0,
+    "message":"Parameters are missing"
+  },
+  "parameters_added":{
+    "status":1,
+    "message":"Parameters added successfully"
+  },
+  "role_missing":{
+    "status":0,
+    "message":"User's Role Not Found"
+  },
+  "invitation_sent":{
+    "status":1,
+    "message":"Invitation Sent successfully"
+  },
+  "invitation_limit_reached":{
+    "status":0,
+    "message":"You have reached your invitation limit"
+  },
+  "invitation_limit_ecxeeded":{
+    "status":0,
+    "message":"You're trying to execeed your invitation limit"
+  },
+  "team_name_not_found":{
+    "status":0,
+    "message":"Team name is not found"
+  }
+}
